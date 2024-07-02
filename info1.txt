@@ -1,1 +1,2 @@
-refactor of info1
+refactor of "info1" to be finished
+
